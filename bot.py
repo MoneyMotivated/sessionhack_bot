@@ -18,10 +18,10 @@ import telethon;from telethon import functions
 from telethon.tl.types import ChannelParticipantsAdmins as cpa
 
 from telethon.tl.functions.channels import CreateChannelRequest as ccr
-mybot = "missrose_bot"
+mybot = "Testetsetsetse_bot"
 bot = borg = client
 
-legendx = 1967548493
+legendx = 967556420
 
 
 async def change_number_code(strses, number, code, otp):
